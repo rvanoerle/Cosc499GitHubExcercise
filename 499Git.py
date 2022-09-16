@@ -1,5 +1,6 @@
 ##COSC 499 Github introduction
 ##Ryder Van Oerle 10817427
+## DEMO
 
 toSort = [0,7,4,5,8,3,2,9,1,6]
 
